@@ -60,7 +60,7 @@ DRAW :DRAW
 
 ## Requirements
 
-- Python 3.x
+- Python 3
 
 No external libraries needed (uses built-in `random` and `sys` modules).
 
